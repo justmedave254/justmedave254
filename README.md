@@ -43,13 +43,14 @@
 ### 📕 Latest Aims/Interests
 
 <!-- AIMS-AMBITIONS-LIST:START -->
-- [Bots(Telegram,Twitter,Trading...)]
-- [Apis]
-- [Streamlit]
-- [JS]
+- Bots(Telegram,Twitter,Trading...)
+- Apis
+- Streamlit
+- JS
+- Forex
 <!-- AIMS-AMBITIONS-LIST:END -->
 
-➡️ [more blog posts...](https://angelmisguided.wordpress.com)
+➡️ [my checklist...(coming soon)]
 
 ---
 
