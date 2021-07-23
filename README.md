@@ -40,6 +40,19 @@
 
 ---
 
+### 📕 Latest Aims/Interests
+
+<!-- AIMS-AMBITIONS-LIST:START -->
+- [Bots(Telegram,Twitter,Trading...)]
+- [Apis]
+- [Streamlit]
+- [JS]
+<!-- AIMS-AMBITIONS-LIST:END -->
+
+➡️ [more blog posts...](https://angelmisguided.wordpress.com)
+
+---
+
 [website]: https://angelmisguided.wordpress.com
 [twitter]: https://twitter.com/_justmedave_
 [instagram]: https://instagram.com/_justmedave
