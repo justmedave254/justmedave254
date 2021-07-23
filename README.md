@@ -2,7 +2,7 @@
 
 ## I'm a Student and Developer!!
 
-- 🔭 I am currently a student at Alliance High School
+- 🔭 I'm currently a student at Alliance High School
 - 🌱 I’m currently learning everything but mostly Python 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more while self-developing
