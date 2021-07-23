@@ -1,4 +1,4 @@
-### Hi there, I'm David - aka [tmeMisguided] aka[AngelMisguided][website]👋
+### Hi there, I'm David - aka [tmeMisguided] aka [AngelMisguided][website]👋
 
 ## I'm a Student and Developer!!
 
@@ -23,11 +23,10 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 
 <br />
-<br />
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts(Not tech related)
 
 <!-- BLOG-POST-LIST:START -->
 - [THE WHISPER, BEYOND THE SEA:](https://angelmisguided.wordpress.com/random_thoughts_by_thee-ano-ny-mous-enigma/)
