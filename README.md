@@ -3,7 +3,7 @@
 ## I'm a Student and Developer!!
 
 - 🔭 I'm currently a student at Alliance High School
-- 🌱 I’m currently learning everything but mostly Python 🤣
+- 🌱 I’m currently a Python developer and learning Ethical Hacking🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more while self-developing
 - ⚡ Fun fact: I love to draw, play piano, write, read novels and have fun
