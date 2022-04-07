@@ -6,7 +6,7 @@
 - 🌱 I’m currently a Python developer and learning Ethical Hacking🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more while self-developing
-- ⚡ Fun fact: I love to draw, play piano, write, read novels and have fun
+- ⚡ Fun fact: I love to draw, play piano, write, read novels, watch anime and have fun
 
 ### Connect with me:
 
