@@ -1,10 +1,10 @@
-### Hi there, I'm David - aka [tmeMisguided] aka [AngelMisguided][website]👋
+### Hi there, I'm David - aka [_justmedave] aka [AngelMisguided][website]👋
 
 ## I'm a Student and Developer!!
 
-- 🔭 Previously a student at Alliance High School
+- 🔭 Alliance High School Alumnus
 - 🌱 I’m currently a Python developer and learning Ethical Hacking🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more while self-developing
 - ⚡ Fun fact: I love to draw, play piano, write, read novels, watch anime and have fun
 
