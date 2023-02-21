@@ -2,10 +2,12 @@
 
 ## I'm a Student and Developer!!
 
+- 🔭 Freshman at the University of Nairobi majoring in Computer Science
 - 🔭 Alliance High School Alumnus
-- 🌱 I’m currently a Python developer and learning Ethical Hacking🤣
+- 🌱 Python developer
+- 🌱 Learning JS, React Native and learning Ethical Hacking🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more while self-developing
+- 🥅 2023 Goals: Contribute more while self-improving
 - ⚡ Fun fact: I love to draw, play piano, write, read novels, watch anime and have fun
 
 ### Connect with me:
@@ -44,11 +46,14 @@
 ### 📕 Latest Aims/Interests
 
 <!-- AIMS-AMBITIONS-LIST:START -->
+- ML and AI
 - Bots(Telegram,Twitter,Trading...)
 - Apis
 - Streamlit
 - JS
 - Forex
+- React Native
+- Python
 <!-- AIMS-AMBITIONS-LIST:END -->
 
 ➡️ [my checklist...(coming soon)]
