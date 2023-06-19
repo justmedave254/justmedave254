@@ -2,7 +2,7 @@
 
 ## A Student and Developer!!
 
-- 🔭 Incoming Sophmore at the University of Nairobi
+- 🔭 Sophmore at the University of Nairobi
 - 🔭 Computer Science Major
 - 🔭 Alliance High School Alumnus
 - 🌱 Python developer
